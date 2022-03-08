@@ -27,3 +27,8 @@ y
 
 as.logical(y)
 as.numeric(x)
+
+
+
+m <- matrix(nrow =2, ncol =3)
+m
